@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "Tutorial.md",
-        "tut-v2.md"
+        "tut-v2.md",
+        "drukknop.md"
     ],
     "testFiles": [
         "test.ts"
